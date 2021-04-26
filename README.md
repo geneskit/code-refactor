@@ -1,6 +1,6 @@
 # Code Refactor 
 
-## This is the assignment for HTML, CSS and Git
+## This is the assignment for **[Module 1]** *HTML, CSS and Git*
 
 ### Purpose
 A website that follows accessibility standards and is optimized for search engines.
